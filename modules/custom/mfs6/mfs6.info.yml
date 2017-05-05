@@ -1,0 +1,5 @@
+name: MFS6
+description: ' Criar View para Eventos (em Bloco)'
+type: module
+core: 8.x
+version: 8.x-1.0
