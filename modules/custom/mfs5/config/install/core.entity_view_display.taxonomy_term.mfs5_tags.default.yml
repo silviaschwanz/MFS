@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.mfs5_tags
+  module:
+    - text
+id: taxonomy_term.mfs5_tags.default
+targetEntityType: taxonomy_term
+bundle: mfs5_tags
+mode: default
+content:
+  description:
+    label: inline
+    type: text_default
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden: {  }
