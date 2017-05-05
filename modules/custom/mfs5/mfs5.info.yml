@@ -1,0 +1,14 @@
+name: MFS5
+description: 'Provides MFS5 content type and related configuration. Tararefa MFS5 página interna de Eventos'
+type: module
+core: 8.x
+dependencies:
+  - field
+  - file
+  - image
+  - menu_ui
+  - node
+  - path
+  - taxonomy
+  - text
+  - user
