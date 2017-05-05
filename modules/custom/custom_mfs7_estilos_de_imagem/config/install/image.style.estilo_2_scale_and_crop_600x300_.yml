@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies: {  }
+name: estilo_2_scale_and_crop_600x300_
+label: 'Estilo 2 - Scale and Crop (600x300)'
+effects:
+  d9f7c5a5-e00f-451a-b118-2f881ced4efa:
+    uuid: d9f7c5a5-e00f-451a-b118-2f881ced4efa
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 600
+      height: 300
