@@ -1,0 +1,8 @@
+name: 'MFS7 - Estilos de Imagem'
+description: 'Estilos de Imagem'
+type: module
+core: 8.x
+dependencies:
+  - image
+version: 8.x-1.0
+package: Custom

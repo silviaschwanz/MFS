@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies: {  }
+name: estilo_1_resize_100x100_
+label: 'Estilo 1 - Resize (150x100)'
+effects:
+  3806c66d-8ae9-48ed-ad6c-47e149ab6dcd:
+    uuid: 3806c66d-8ae9-48ed-ad6c-47e149ab6dcd
+    id: image_resize
+    weight: 1
+    data:
+      width: 150
+      height: 100

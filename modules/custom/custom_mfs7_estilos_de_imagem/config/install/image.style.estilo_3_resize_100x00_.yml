@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies: {  }
+name: estilo_3_resize_100x00_
+label: 'EStilo 3 - Resize (100x00)'
+effects:
+  6d4f6eff-c9a2-48cc-84f1-50ba11e4a316:
+    uuid: 6d4f6eff-c9a2-48cc-84f1-50ba11e4a316
+    id: image_resize
+    weight: 1
+    data:
+      width: 100
+      height: 100
